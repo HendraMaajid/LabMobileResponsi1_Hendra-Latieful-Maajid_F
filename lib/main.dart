@@ -39,8 +39,13 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Toko Kita',
+      title: 'Manajamen Pengeluaran',
       debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        fontFamily: 'ComicSans',
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
+        useMaterial3: true,
+      ),
       home: page,
     );
   }

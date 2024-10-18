@@ -9,7 +9,7 @@
 ## Screenshoot Tampilan
 <img src="registrasi1.png" width="300"/>
 <img src="registrasi2.png" width="300"/>
-<img src="login1.png" width="300"/>
+<img src="login.png" width="300"/>
 <img src="beranda.png" width="300"/>
 <img src="tambah1.png" width="300"/>
 <img src="tambah2.png" width="300"/>
