@@ -4,10 +4,10 @@
 ## Shift Baru : F
 
 ## Soal paket
-<img src="soal.png" width="300"/>
+<img src="soal.png" width="500"/>
 
 ## Screenshoot Tampilan
-<img src="registrasi1.png" width="500"/>
+<img src="registrasi1.png" width="300"/>
 <img src="registrasi2.png" width="300"/>
 <img src="login1.png" width="300"/>
 <img src="beranda.png" width="300"/>
