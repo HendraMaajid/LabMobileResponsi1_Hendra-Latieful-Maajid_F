@@ -2,7 +2,8 @@
 ## H1D022018 
 ## Shift KRS : D 
 ## Shift Baru : F
-
+## Disclaimer
+- Untuk fontnya sebenarnya sudah diubah semua ke comic sans tapi karena saya ssnya lebih dulu diawal saat belum diubah fontnya jadinya hanya beberapa ss yang fontnya sudah benar. saya mau ss semuanya tetapi apinya down down terus jadinya hanya beberapa saja ss yang sudah diubah tetapi untuk semua pagenya sudah saya ubah lewat pubs yaml dan juga main.dart di mnaterialAppnya untuk global font familynya sudah saya ubah.
 ## Soal paket
 <img src="soal.png" width="500"/>
 
